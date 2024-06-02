@@ -22,8 +22,12 @@ Maven
 
 Endpoints
 **********
-GET /api/todo: Retrieve all To-Do items.
-GET /api/todo/{id}: Retrieve a single To-Do item by ID.
-POST /api/todo: Create a new To-Do item.
-PUT /api/todo/{id}: Update an existing To-Do item by ID.
-DELETE /api/todo/{id}: Delete a To-Do item by ID.
+1.GET /api/todo: Retrieve all To-Do items.
+
+2.GET /api/todo/{id}: Retrieve a single To-Do item by ID.
+
+3.POST /api/todo: Create a new To-Do item.
+
+4.PUT /api/todo/{id}: Update an existing To-Do item by ID.
+
+5.DELETE /api/todo/{id}: Delete a To-Do item by ID.
