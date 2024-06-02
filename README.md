@@ -5,12 +5,16 @@ Features
 ********
 1
 Create: Add a new To-Do item.
+
 2
 Read: Retrieve all To-Do items or fetch a single item by ID.
+
 3
 Update: Update an existing To-Do item.
+
 4
 Delete: Remove a To-Do item from the list.
+
 
 
 Technologies Used
